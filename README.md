@@ -29,4 +29,4 @@ Designed using Figma with reusable components and an interactive prototype.
 
 ## Figma Prototype
 
-[View Figma Prototype](PASTE-YOUR-FIGMA-LINK-HERE)
+[View Figma Prototype](https://www.figma.com/design/ALOSooj2hWGUX50kcKxeAw/mohseena?node-id=0-1&t=R7NoXrbQ9kWfCGxo-1)
